@@ -6,3 +6,7 @@ cursor-style-blink = false
 cursor-click-to-move = true
 scrollbar = system
 theme = Chalk
+
+# macos specific settings
+macos-auto-secure-input = true
+macos-secure-input-indication = true
