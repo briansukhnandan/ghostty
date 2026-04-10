@@ -1,0 +1,8 @@
+background-blur = true
+background-image = ~/.config/ghostty/cloud.jpg
+background-image-opacity = 0.1
+background-image-fit = cover
+cursor-style-blink = false
+cursor-click-to-move = true
+scrollbar = system
+theme = Chalk
